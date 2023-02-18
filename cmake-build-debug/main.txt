@@ -1,0 +1,3 @@
+0;0;0;0;A;admin;admin;A;A;0;X;X;0;0;X;11111111;XXXXXXXX;Admin;0;0;0;0;0;0
+30696;18;2;2023;D;alex;1234;alex;watson;44;M;On Earth;43;123456;Solar system;+1234567890;solarearth@gmail.com;Doctors;0;0;0;0;0;0
+31293;18;2;2023;P;dan;4567;daniel;kasbarov;34;M;somewhere;34;543214;aroundsomewhere;+432322323232;danielkasbarov@gmail.com;Nothing so far;12;12;2023;14;50;30696
