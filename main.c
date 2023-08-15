@@ -1,12 +1,3 @@
-/*Rouhollah Ghobadinezhad 3107467
- *Walid Boucenna 3107821
- *Hana Salah 3107842
- *Doctor Appointment System
- *Advanced Programing
- *Prof. Amit Sen
- *09/02/2023
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
